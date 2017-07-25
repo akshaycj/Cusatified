@@ -1,0 +1,22 @@
+{
+  "hospital" : [
+    {
+    "name" : "ESI Dispensary",
+    "lat" : 10.03712644,
+    "lon" : 76.33110344,
+    "description" : "Near St.Jhons School"
+    },
+    {
+    "name" : "Kims",
+    "lat" : 10.0382357,
+    "lon" : 76.3157719,
+    "description" : "Pathadipalam, en-route Edapally"
+    },
+    {
+    "name" : "CMC : Cochin Medical College",
+    "lat" : 10.05248705,
+    "lon" : 76.35559469,
+    "description" : ""
+    }
+  ]
+}

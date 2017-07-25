@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cusatified</string>
+    <string name="skip">Y U DO DIS TO ME?</string>
+    <string name="text1">Get to Know the place</string>
+    <string name="desc1">I will Show you around a bit</string>
+    <string name="open">Hello</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="cittic">CITTIC(Centre for Innovation Technology Transfer and Industrial Collaboration) is an organization
+
+under CUSAT which has been designed with the purpose of enhancing the bonding between
+
+industries and students and making them more familiar with entrepreneur world.\n It aims at guiding
+
+and motivating the students to involve in innovation at the University which is capable of solving the
+
+needs of the industries.\nIn an attempt to promote the entrepreneurship culture within the CUSAT
+
+premises, the Technology Business Incubator(TBI) of CUSAT which is managed by CITTIC itself has
+
+already started incubating startup companies with students as entrepreneurs.</string>
+
+    <string name="cx">Cusatxpress is the Official Campus blog of CUSAT, founded on 14 November 2009 by two Students of Civil Engineering Department SOE CUSAT.After a year on the service it got the Official Campus blog title for its services. Mission of CusatXpress is to serve the needy with useful information and Resources about CUSAT.</string>
+</resources>

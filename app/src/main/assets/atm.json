@@ -1,0 +1,40 @@
+{
+  "atm" : [
+    {
+    "name" : "State Bank Of India ATM",
+    "lat" : 10.04909859,
+    "lon" : 76.3174748,
+    "description" : ""
+    },
+    {
+    "name" : "Canara Bank ATM",
+    "lat" : 10.04910717,
+    "lon" : 76.31738026,
+    "description" : ""
+    },
+    {
+    "name" : "Indicash ATM",
+    "lat" : 10.04641526,
+    "lon" : 76.32141832,
+    "description" : ""
+    },
+    {
+    "name" : "SBI ATM",
+    "lat" : 10.0459392,
+    "lon" : 76.32345747,
+    "description" : ""
+    },
+    {
+    "name" : "SBT ATM",
+    "lat" : 10.04202047,
+    "lon" : 76.32844403,
+    "description" : ""
+    },
+    {
+    "name" : "HDFC Bank ATM",
+    "lat" : 10.04862716,
+    "lon" : 76.31861709,
+    "description" : ""
+    }
+  ]
+}

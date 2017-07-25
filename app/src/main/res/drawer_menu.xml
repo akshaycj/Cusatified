@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.alexzh.nestedtoolbartutorial.MainActivity">
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/general">
+        <item
+            android:id="@+id/item_more_articles"
+            android:title="more" />
+        <item
+            android:id="@+id/item_github"
+            android:title="more1" />
+    </group>
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/follow">
+        <item
+            android:id="@+id/item_follow_google_plus"
+            android:title="more11" />
+        <item
+            android:id="@+id/item_follow_twitter"
+            android:title="more1111" />
+        <item
+            android:id="@+id/item_follow_linkedin"
+            android:title="more1111" />
+        <item
+            android:id="@+id/item_join_facebook"
+            android:title="more" />
+    </group>
+</menu>

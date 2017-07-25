@@ -1,0 +1,92 @@
+{
+  "resturant" : [
+    {
+    "name" : "CUSAT Coffee House [CCH]",
+    "lat" : 10.0421958,
+    "lon" : 76.3284789,
+    "description" : "Campus Canteen where you can get quality food for low prices"
+  },
+  {
+  "name" : "Nalukettu - CUSAT Food Court",
+  "lat" : 10.0524326,
+  "lon" : 76.3210358,
+  "description" : ""
+},
+{
+"name" : "Timepass",
+"lat" : 10.042822,
+"lon" : 76.3256975,
+"description" : ""
+},
+  {
+    "name" : "Prakash Mess",
+    "lat" : 10.0497879,
+    "lon" : 76.331947,
+    "description" : "North Indian Mess"
+    },
+{
+"name" : "Hot n Taste",
+"lat" : 10.0516517,
+"lon" : 76.3344566,
+"description" : ""
+},
+{
+"name" : "Ice Berg",
+"lat" : 10.04607984,
+"lon" : 76.32323451,
+"description" : ""
+},
+{
+"name" : "NAS",
+"lat" : 10.04628585,
+"lon" : 76.32276982,
+"description" : ""
+},
+{
+"name" : "Hot n Taste",
+"lat" : 10.04990939,
+"lon" : 76.33302122,
+"description" : ""
+},
+
+{
+"name" : "Kismath Resturant",
+"lat" : 10.04727493,
+"lon" : 76.31897248,
+"description" : ""
+},
+
+{
+"name" : "Aryas",
+"lat" : 10.04636376,
+"lon" : 76.32152595,
+"description" : "Pure Vegeterian Restaurant"
+},
+
+{
+"name" : "Payyappally Stores",
+"lat" : 10.0457233,
+"lon" : 76.32321406,
+"description" : "First junction after the main gate. A busy junction where almost all things are easily available"
+},
+{
+"name" : "Chai Chillum Chappathi",
+"lat" : 10.042328,
+"lon" : 76.3263547,
+"description" : ""
+},
+{
+"name" : "Chandini Mess",
+"lat" : 10.0463826,
+"lon" : 76.3317968,
+"description" : "North Indian Food"
+},
+
+{
+"name" : "Cafe d'Arabia(Edappally)",
+"lat" : 10.0301537,
+"lon" : 76.3048468,
+"description" : "The best place for arabian food at reasonable price and great ambience."
+}
+  ]
+}

@@ -1,0 +1,15 @@
+{  "stores" : [
+  {
+    "name": "Campus House",
+    "lat": 10.04616172,
+    "lon": 76.32216297,
+    "description": "Stationery shop with mobile recharge"
+  },
+  {
+    "name": "Margin Free Super Market",
+    "lat": 10.04603362,
+    "lon": 76.32335521,
+    "description": "Super Market"
+  }
+]
+}

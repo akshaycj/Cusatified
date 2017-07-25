@@ -1,0 +1,46 @@
+{
+  "mall" : [
+    {
+    "name" : "LuLu Mall",
+    "lat" : 10.0274993,
+    "lon" : 76.3080381,
+    "description" : "NH47, Nethaji Nagar, Edappally"
+    },
+    {
+    "name" : "Oberon",
+    "lat" : 10.01443282,
+    "lon" : 76.31179959,
+    "description" : "Mosque Road, Padivattom, Edappally"
+    },
+    {
+    "name" : "Gold Souk",
+    "lat" : 9.97766188,
+    "lon" : 76.316514921,
+    "description" : "30/2011-C3, Service Rd, Ponnurunni East, Chalikkavattom, Vyttila, Ernakulam"
+    },
+    {
+    "name" : "Nucleus",
+    "lat" : 9.9396907,
+    "lon" : 76.3309844,
+    "description" : "Kochi-Madurai-Tondi Point Rd, Poonithura, Maradu, Ernakulam"
+    },
+    {
+    "name" : "Grand",
+    "lat" : 10.02430601,
+    "lon" : 76.30876333,
+    "description" : "K.K Tower, 27/479, Service Rd, Toll Junction, Edappally"
+    },
+    {
+    "name" : "Bay Pride",
+    "lat" : 9.9772719,
+    "lon" : 76.27671093,
+    "description" : "Alliance Residency, Shanmugham Rd, Marine Drive, Ernakulam"
+    },
+    {
+    "name" : "Centre Square",
+    "lat" : 9.9779986,
+    "lon" : 76.2833304,
+    "description" :"40/6972, Mahatma Gandhi Rd, Shenoys, Ernakulam"
+    }
+  ]
+}

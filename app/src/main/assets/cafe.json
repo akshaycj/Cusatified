@@ -1,0 +1,70 @@
+{
+  "cafe" : [
+    {
+    "name" : "Ice Spot",
+    "lat" : 10.025343,
+    "lon" : 76.338966,
+    "description" : ""
+  },
+  {
+  "name" : "Quality Bakers",
+  "lat" : 10.0505406,
+  "lon" : 76.33372229,
+  "description" : ""
+},
+{
+"name" : "Milma Coolbar",
+"lat" : 10.04163751,
+"lon" : 76.32867001,
+"description" : ""
+},
+{
+"name" : "Burger Spot",
+"lat" : 10.04653939,
+"lon" : 76.3209942,
+"description" : ""
+},
+{
+"name" : "Jam Rolls",
+"lat" : 10.04590751,
+"lon" : 76.32306386,
+"description" : ""
+},
+{
+"name" : "Thamburans Coolbar",
+"lat" : 10.049298,
+"lon" : 76.333024,
+"description" : ""
+},
+{
+"name" : "Kuttikadans",
+"lat" : 10.04765194,
+"lon" : 76.33195471,
+"description" : ""
+},
+{
+"name" : "Coffee Break",
+"lat" : 10.042557,
+"lon" : 76.328765,
+"description" : ""
+},
+{
+"name" : "Abdullaz Corner",
+"lat" : 10.04395112,
+"lon" : 76.33286297,
+"description" : ""
+},
+{
+"name" : "Real Bakers",
+"lat" : 10.04625415,
+"lon" : 76.32191688,
+"description" : ""
+},
+{
+"name" : "Cofi Club",
+"lat" : 10.0313594,
+"lon" : 76.3341571,
+"description" : "Nice place to have a relishing cup of coffee. Open 24 hours."
+}
+  ]
+}

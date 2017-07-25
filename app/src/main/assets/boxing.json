@@ -1,0 +1,14 @@
+{
+  "boxing" : [
+    {
+    "name" : "Boxing",
+    "icn" : "BR",
+    "lat" : 10.04064973,
+    "lon" : 76.32661812,
+    "description" : "Located in the University Ground",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    }
+
+  ]
+}

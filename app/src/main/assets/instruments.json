@@ -1,0 +1,16 @@
+{
+	"instruments"  :  [
+  {
+    "name": "Co-operative Store By PTA",
+    "lat": 10.050011,
+    "lon": 76.331071,
+    "description": ""
+  },
+  {
+    "name": "Indus Stationary",
+    "lat": 10.046018,
+    "lon": 76.322597,
+    "description": ""
+  }
+]
+}

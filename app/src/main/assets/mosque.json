@@ -1,0 +1,28 @@
+{
+  "mosque" : [
+    {
+    "name" : "Masjid Al Huda",
+    "lat" : 10.04606069,
+    "lon" : 76.32358287,
+    "description" : "University Road,Alfiya Nagar,South Kalamassery"
+    },
+    {
+    "name" : "Hidayathu Nagar Juma Masjid",
+    "lat" : 10.05086376,
+    "lon" : 76.33407464,
+    "description" : "HMT, Kalamassery"
+    },
+    {
+    "name" : "Muhidheen Masjid",
+    "lat" : 10.0426675,
+    "lon" : 76.3254815,
+    "description" : "Thrikkakara"
+    },
+    {
+    "name" : "Salafi Masjid",
+    "lat" : 10.04443972,
+    "lon" : 76.32985421,
+    "description" : "Pipeline Road, Kalamassery"
+    }
+  ]
+}

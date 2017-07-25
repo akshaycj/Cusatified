@@ -1,0 +1,42 @@
+{
+  "menug" : [
+    {
+	"name" : "Sahara Hostel",
+    "lat" : 10.0454038,
+    "lon" : 76.3298112,
+    "description" : "University Hostel for B.TECH"
+    },
+	  {
+	"name" : "Sarovar Men's Hostel",
+    "lat" : 10.0468695,
+    "lon" : 76.329989,
+    "description" : "University Hostel for Main Campus"
+    },
+	  {
+	"name" : "Siberia Mens Hostel",
+    "lat" : 10.0468695,
+    "lon" : 76.329989,
+    "description" : "University Hostel for Main Campus"
+    },
+	  {
+	"name" : "Sagar Hostel ",
+    "lat" : 10.0460802,
+    "lon" : 76.330447,
+    "description" : "University Hostel for Post Metric Boys"
+    },
+	{
+	"name" : "Swaraj Hostel ",
+    "lat" : 10.0460802,
+    "lon" : 76.330447,
+    "description" : "University Hostel for OBC Boys"
+    },
+	{
+	"name" : "Sanathana Hostel",
+    "lat" : 10.0410723,
+    "lon" : 76.3250683,
+    "description" : "University Hostel for Main Campus"
+    }
+ ]
+}
+
+	

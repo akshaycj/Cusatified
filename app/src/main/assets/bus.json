@@ -1,0 +1,76 @@
+{
+  "bus" : [
+    {
+    "name" : "University Stop Private",
+    "lat" : 10.0488741,
+    "lon" : 76.31906971,
+    "description" : "Near University Main Gate, En-Route to : Edapally - Vytilla - Ernakulam Town"
+    },
+    {
+    "name" : "University Stop KSRTC",
+    "lat" : 10.0483274,
+    "lon" : 76.31852254,
+    "description" : "Near University Main Gate, En-Route to : Aluva Nedumbassery Angamaly"
+    },
+    {
+    "name" : "South Kalamassery",
+    "lat" : 10.04962878,
+    "lon" : 76.31711606,
+    "description" : "Near South Kalamassery Over Bridge : Aluva "
+    },
+    {
+    "name" : "CUSAT Main Office Bus Stop",
+    "lat" : 10.04428654,
+    "lon" : 76.32461384,
+    "description" : "Near University Main Gate, En-Route to : Aluva Nedumbassery Angamaly"
+    },
+    {
+    "name" : "Cochin University Bus Stop",
+    "lat" : 10.04184087,
+    "lon" : 76.32825091,
+    "description" : "Near University Main Gate, En-Route to : Aluva Nedumbassery Angamaly"
+    },
+    {
+    "name" : "Toshiba Bus Stop",
+    "lat" : 10.0521041,
+    "lon" : 76.33360259,
+    "description" : "Towards Kakkanad, CMC, Thriponithura"
+    },
+    {
+    "name" : "Orthodox Church Bus Stop",
+    "lat" : 10.05301658,
+    "lon" : 76.33171029,
+    "description" : "HMT Rd Hidayath Nagar, Thrikkakara"
+    },
+	{
+    "name": "Vytilla Mobility Hub",
+    "lat": 9.96915392,
+    "lon": 76.32170763,
+    "description": "Private Buses : to Kottayam Pathanamthitta Guruvayoor Kozhikkode etc \nKSRTC Buses : to Trivandrum Thrissur Kottayam Pathanamthitta etc"
+  },
+  {
+    "name": "Aluva Private Bus Stand",
+    "lat": 10.1085004,
+    "lon": 76.35087764,
+    "description": ""
+  },
+  {
+    "name": "KSRTC Bus Stand Aluva",
+    "lat": 10.10689076,
+    "lon": 76.3562798,
+    "description": ""
+  },
+  {
+    "name": "KSRTC Bus Stand Ernakulam South",
+    "lat": 9.97783231,
+    "lon": 76.28883854,
+    "description": "Long distance buses pass and start from this bus station. You can reach here via buses available from university bus stop or by other means."
+  },
+  {
+    "name": "Kaloor Private Bus Terminal",
+    "lat": 9.99401885,
+    "lon": 76.29189788,
+    "description": "Relativel few private buses station here, as many were shifted to Vytilla Mobility Hub."
+  }
+  ]
+}

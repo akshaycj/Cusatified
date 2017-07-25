@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#201e1e</color>
+    <color name="slider2">#03A9F4</color>
+    <color name="ash">#607D8B</color>
+
+    <color name="orange">#f39c12</color>
+    <color name="primaryColorLight">#CDCBA6</color>
+    <!--<color name="primaryColor">#867198</color>
+    <color name="primaryColorDark">#67537A</color>
+    <color name="primaryColor">#594691</color>
+    <color name="primaryColorDark">#3e2d70</color>-->
+    <color name="accent">#008080</color>
+    <color name="material_light">#EEEEEE</color>
+    <color name="bg_dark">#1C8A91</color>
+
+    <color name="primaryColor">#18BAC6</color>
+    <color name="primaryColorDark">#39BECE</color>
+
+
+    <color name="bgBackSideColor">#f4f0ff</color>
+    <color name="bgTitleLeft">#594691</color>
+    <color name="bgTitleRight">#ffffff</color>
+    <color name="bgContentTop">#594691</color>
+    <color name="bgContent">#ffffff</color>
+    <color name="contentDividerLine">#e0e0e0</color>
+    <color name="contentBadgeTitle">#a9a9a9</color>
+    <color name="titleBadgeTitle">#adafb1</color>
+    <color name="titleBadgeText">#adafb1</color>
+    <color name="mainTextColor">#343d43</color>
+    <color name="btnRequest">#ffbf12</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <!-- Material DEFAULT colors -->
+
+    <color name="material_drawer_primary_light">#BBDEFB</color>
+
+
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+</resources>

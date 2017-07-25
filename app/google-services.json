@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905529695987",
+    "firebase_url": "https://cusatified.firebaseio.com",
+    "project_id": "cusatified",
+    "storage_bucket": "cusatified.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905529695987:android:b61575fc457f9a81",
+        "android_client_info": {
+          "package_name": "com.cusatified.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905529695987-orlurs56n3kppm67a906n6m1nh4uc24v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9y7enlk3tpF_yYFOhs2FBwTEE2JDubIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

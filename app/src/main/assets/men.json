@@ -1,0 +1,52 @@
+{
+  "men" : [
+    {
+    "name" : "Dream Valley",
+    "lat" : 10.045147,
+    "lon" : 76.330824,
+    "description" : "PH:9496907220"
+    },
+    {
+    "name" : "Opal Homes",
+    "lat" : 10.045300,
+    "lon" : 76.330653,
+    "description" : "PH:0484-2544774"
+    },
+    {
+    "name" : "Panadans Hostel",
+    "lat" : 10.047534,
+    "lon" : 76.333984,
+    "description" : "PH:9895139116"
+    },
+	 {
+    "name" : "SSF Wisdom Homes",
+    "lat" : 10.050737,
+    "lon" : 76.333432,
+    "description" : "PH:+919846616935. Islamic Hostel"
+    },
+    {
+    "name" : "SM Boys Hostel",
+    "lat" : 10.042279,
+    "lon" : 76.322901,
+    "description" : "PH:+919846115023"
+    },
+    {
+    "name" : "Rasheed Manakkadan Lodge",
+    "lat" : 10.05018406,
+    "lon" : 76.33216292,
+    "description" : "Hidayath Nagar, North Kalamassery, Kalamassery"
+    },
+    {
+    "name" : "Bait Al Noor",
+    "lat" : 10.05086545,
+    "lon" : 76.33091435,
+    "description" : ""
+    },
+    {
+    "name" : "Ashiana Enclave",
+    "lat" : 10.04124662,
+    "lon" : 76.33328542,
+    "description" : ""
+    }
+  ]
+}

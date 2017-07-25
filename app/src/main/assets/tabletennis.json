@@ -1,0 +1,13 @@
+{
+  "tabletennis" : 
+  [
+	{
+    "name" : "Indoor Stadium University Ground",
+    "lat" : 10.04060483,
+    "lon" : 76.3267985,
+    "description" : "This is the official multipurpose ground where various events related to sports take place in the university",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+		}
+	]
+}

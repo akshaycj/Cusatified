@@ -1,0 +1,22 @@
+{
+  "library" : [
+    {
+	"name" : "University Library",
+    "lat" : 10.0452296,
+    "lon" : 76.3243348,
+    "description" : "",
+    "otime" : "09:00 AM",
+    "ctime" : "07:30 PM"
+    },
+	{
+	"name" : "SOE Library",
+    "lat" : 10.0490378,
+    "lon" : 76.3311963,
+    "description" : "",
+    "otime" : "09:00 AM",
+    "ctime" : "08:00 PM"
+    }
+ ]
+}
+
+	

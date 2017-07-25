@@ -1,0 +1,23 @@
+{
+  "badminton" : [
+    {
+    "name" : "Badminton Court",
+    "icn" : "BM",
+    "lat" : 10.04064973,
+    "lon" : 76.32661812,
+    "description" : "Located in Students Amenity Centre",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    },
+    {
+    "name" : "CUSAT Arena",
+    "icn" : "FB",
+    "lat" : 10.04317992,
+    "lon" : 76.3290073,
+    "description" : "Multipurpose sporting area with a basketball court,volleyball court and throwball court",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    }
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+	"train" : [
+  {
+    "name": "Aluva Railway Station",
+    "lat": 10.10804206,
+    "lon": 76.35631735,
+    "description": ""
+  },
+  {
+    "name": "Ernakulam Junction South",
+    "lat": 9.96905267,
+    "lon": 76.2910113,
+    "description": ""
+  },
+  {
+    "name": "Ernakulam Town North Railway Station",
+    "lat": 9.9920815,
+    "lon": 76.28647366,
+    "description": ""
+  },
+  {
+    "name": "Thrippunithura Railway Station",
+    "lat": 9.9498125,
+    "lon": 76.3525183,
+    "description": ""
+  }
+]
+}

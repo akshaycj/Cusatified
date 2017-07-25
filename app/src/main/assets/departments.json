@@ -1,0 +1,148 @@
+{
+	"departments"	: [
+  {
+    "name": "SCHOOL OF ENGINEERING",
+    "lat": 10.0482921,
+    "lon": 76.3314729,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Btech and Mtech in various branches ranging from conventional courses such as Civil/Mechanical/Electronics/Computer Science to rare courses such as Information Technology and Safety and Fire Engg. Are offered."
+  },
+  {
+    "name": "DEPARTMENT OF ELECTRONICS",
+    "lat": 10.0448313,
+    "lon": 76.3275217,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "COURSES OFFERED:Msc in Electronic Science,Mtech in Electronics Comm. Engg,Phd in Electronics"
+  },
+  {
+    "name": "SCHOOL OF LEGAL STUDIES",
+    "lat": 10.0437874,
+    "lon": 76.3279844,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Advanced Legal Aid Clinic for undergraduate,postgraduate and research work/studies."
+  },
+  {
+    "name": "SCHOOL OF MANAGEMENT STUDIES",
+    "lat": 10.0431734,
+    "lon": 76.3274005,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Has both full time and part time courses for Management Studies in International Business and Travel and Tourism.Options for Phd and Mphil Programmes are also avalable."
+  },
+  {
+    "name": "DEPARTMENT OF INSTRUMENTATION",
+    "lat": 10.0446735,
+    "lon": 76.3269586,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Courses in Btech,Msc and Phd in Instrumentation engineering are the main attraction."
+  },
+  {
+    "name": "DEPARTMENT OF COMPUTER APPLICATION",
+    "lat": 10.0461632,
+    "lon": 76.326348,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Courses in highlight include MCA and Msc in computer science and technology."
+  },
+  {
+    "name": "DEPARTMENT OF STATISTICS",
+    "lat": 10.0433054,
+    "lon": 76.3279803,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Mtech in Engg Statistics,Phd and Msc in Statistics are the academic programmes offered."
+  },
+  {
+    "name": "DEPARTMENT OF POLYMER SCIENCE AND RUBBER TECHNOLOGY",
+    "lat": 10.0461802,
+    "lon": 76.3256103,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "PSRT has  Btech , Metch and Phd Programmes in Polymer Science Engg."
+  },
+  {
+    "name": "DEPARTMENT OF SHIP TECHNOLOGY",
+    "lat": 10.0452855,
+    "lon": 76.3261152,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Ship Technology and design courses including Btech in Naval Architecture and Ship Building and Mtech in Computer Aided Structural Analysis and Research are much sought novelties."
+  },
+  {
+    "name": "Old SOE",
+    "lat": 10.0461561,
+    "lon": 76.3261636,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": ""
+  },
+  {
+    "name": "DEPARTMENT OF HINDI",
+    "lat": 10.0448313,
+    "lon": 76.3275217,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "M.A , M.Phil,Phd courses in Hindi are undertaken."
+  },
+  {
+    "name": "DEPARTMENT OF MATHEMATICS",
+    "lat": 10.0448313,
+    "lon": 76.3275217,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Caters to courses in Msc ,Mphil and Phd in Mathematics"
+  },
+  {
+    "name": "INTERNATIONAL SCHOOL OF PHOTONICS",
+    "lat": 10.0443061,
+    "lon": 76.3256811,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Main courses include Btech and Mtech in Opto Electronics and LASER technology."
+  },
+  {
+    "name": "DEPARTMENT OF BIOTECHNOLOGY",
+    "lat": 10.0448187,
+    "lon": 76.3276622,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "Msc and Phd in Biotechnology are the stellar courses at hand."
+  },
+  {
+    "name": "STIC",
+    "lat": 10.0451211,
+    "lon": 76.3274674,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": ""
+  },
+  {
+    "name": "C-SIS",
+    "lat": 10.0448313,
+    "lon": 76.3275217,
+    "otime": "9:00 AM",
+    "ctime": "4:30 PM",
+    "description": "A fully functional Science Park with Sciene Pavillions , Math and Computer Labs among other points of interest"
+  },
+  {
+    "name": "COMPUTER CENTRE CUSAT",
+    "lat": 10.0345044,
+    "lon": 76.2953848,
+    "otime": "",
+    "ctime": "",
+    "description": ""
+  },
+  {
+    "name": "CUSAT RADAR STATION",
+    "lat": 10.0425929,
+    "lon": 76.3320923,
+    "otime": "",
+    "ctime": "",
+    "description": ""
+  }
+]
+}

@@ -1,0 +1,16 @@
+{
+  "church" : [
+    {
+    "name" : "St George Orthodox Syrian Church",
+    "lat" : 10.05252799,
+    "lon" : 76.33190475,
+    "description" : "Seaport-Airport road,Ernakulam,Kerala"
+  },
+  {
+  "name" : "St John's Church",
+  "lat" : 10.04086366,
+  "lon" : 76.33324854,
+  "description" : ""
+  }
+  ]
+}

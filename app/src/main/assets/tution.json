@@ -1,0 +1,16 @@
+{
+  "tution" : [
+    {
+    "name" : "SolutionS Institute of Engineering & Technology",
+    "lat" : 10.04776353,
+    "lon" : 76.31788082,
+    "description" : "Tuition for all sujects from all semesters taken here"
+    },
+    {
+    "name" : "B.Tech Tuition",
+    "lat" : 10.045788,
+    "lon" : 76.32306252,
+    "description" : ""
+    }
+  ]
+}

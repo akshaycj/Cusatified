@@ -1,0 +1,22 @@
+{
+  "auto" :			[
+  {
+    "name": "CUSAT Main Gate",
+    "lat": 10.04738456,
+    "lon": 76.31869589,
+    "description": "Autos available from main gate at all times."
+  },
+  {
+    "name": "Below South Kalamassery Over Bridge",
+    "lat": 10.04865753,
+    "lon": 76.31698027,
+    "description": ""
+  },
+  {
+    "name": "Auto to Main Gate",
+    "lat": 10.04245535,
+    "lon": 76.32771675,
+    "description": "To get to Main Gate from CUSAT, Get an auto from this point"
+  }
+]
+}

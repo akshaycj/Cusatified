@@ -1,0 +1,22 @@
+{
+  "bank" : [
+    {
+    "name" : "State Bank of India",
+    "lat" : 10.04603428,
+    "lon" : 76.32364389,
+    "description" : "CUSAT Branch, Ground Floor, Vidhyabharathi Building, Cochin University University Road, South Kalamassery"
+    },
+    {
+    "name" : "HDFC Bank",
+    "lat" : 10.04862716,
+    "lon" : 76.31861709,
+    "description" : ""
+    },
+    {
+    "name" : "State Bank of Travancore",
+    "lat" : 10.04207329,
+    "lon" : 76.32854864,
+    "description" : ""
+    }
+  ]
+}

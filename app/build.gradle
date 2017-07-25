@@ -1,0 +1,68 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.cusatified.app"
+        minSdkVersion 17
+        targetSdkVersion 23
+        versionCode 3
+        versionName "1.2"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile('com.mikepenz:materialdrawer:5.2.7@aar') {
+        transitive = true
+    }
+
+    compile('com.mikepenz:materialdrawer:5.3.4@aar') {
+        transitive = true
+    }
+
+
+    compile 'com.google.android.gms:play-services-maps:9.6.1'
+    compile 'com.google.android.gms:play-services-location:9.6.1'
+    compile 'com.github.quentin7b:android-location-tracker:3.2'
+    compile 'com.ramotion.foldingcell:folding-cell:1.0.1'
+    compile 'com.github.paolorotolo:appintro:3.4.0'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:cardview-v7:23.4.0'
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.google.firebase:firebase-auth:9.6.1'
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+
+    compile('com.crashlytics.sdk.android:crashlytics:2.6.0@aar') {
+        transitive = true;
+    }
+    apply plugin: 'com.google.gms.google-services'
+}

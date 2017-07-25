@@ -1,0 +1,22 @@
+{
+  "volleyball" : [
+    {
+    "name" : "VolleyBall Court",
+    "icn" : "VB",
+    "lat" : 10.04305843,
+    "lon" : 76.32906631,
+    "description" : "Located in Cusat Arena",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    },
+    {
+    "name" : "Girls' VolleyBall Court",
+    "icn" : "TB",
+    "lat" : 10.04208914,
+    "lon" : 76.32889196,
+    "description" : "Opposite Milma/Kunjali marakkar college for marine engg.",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    }
+  ]
+}

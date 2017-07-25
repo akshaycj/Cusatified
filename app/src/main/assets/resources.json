@@ -1,0 +1,22 @@
+{
+  "resources" : [
+    {
+    "name" : "Indus",
+    "lat" : 10.04603494,
+    "lon" : 76.32249422,
+    "description" : "Printing, Photography, Intenet Access, Lamination, DTP, Photostat"
+    },
+    {
+    "name" : "Twinkle",
+    "lat" : 10.04628585,
+    "lon" : 76.32268332,
+    "description" : "Printing, Lamination, DTP, Photostat"
+    },
+    {
+    "name" : "Cyber Park",
+    "lat" : 10.04661862,
+    "lon" : 76.32153064,
+    "description" : "Printing, Lamination, DTP, Photostat"
+    }
+  ]
+}

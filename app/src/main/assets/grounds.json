@@ -1,0 +1,23 @@
+{
+  "grounds" : [
+    {
+    "name" : "University Ground",
+    "icn" : "FB",
+    "lat" : 9.9507243,
+    "lon" : 76.2517138,
+    "description" : "This is the official multipurpose ground where various events related to sports take place in the university",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    },
+    {
+    "name" : "Cusat Arena",
+    "icn" : "CC",
+    "lat" : 10.0431898,
+    "lon" : 76.3290083,
+    "description" : "Located in the University Ground",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    }
+
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "basketball" : [
+    {
+    "name" : "BasketBall Court 1",
+    "icn" : "BB",
+    "lat" : 10.04064973,
+    "lon" : 76.32661812,
+    "description" : "Located in Cusat Arena",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    },
+    {
+    "name" : "CUSAT Arena",
+    "icn" : "FB",
+    "lat" : 10.04308748,
+    "lon" : 76.3292031,
+    "description" : "Multipurpose sporting area with a basketball court,volleyball court and throwball court",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    }
+
+  ]
+}

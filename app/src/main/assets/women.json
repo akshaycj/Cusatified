@@ -1,0 +1,29 @@
+{
+  "women" : [
+    {
+    "name" : "Marthoma Ladies Hostel",
+    "lat" : 10.03802443,
+    "lon" : 76.32666975,
+    "description" : "MNRA Cross Rd 10 Maveli Nagar, Vidya Nagar Colony, Thrikkakara, Edappally"
+    },
+    {
+    "name" : "Carmel Hostel",
+    "lat" : 10.03909674,
+    "lon" : 76.32519454,
+    "description" : "PH:9744397535"
+    },
+    {
+    "name" : "National Hostel",
+    "lat" : 10.04821515,
+    "lon" : 76.31795995,
+    "description" : "University PO, South Kalamassery, Kalamassery"
+    },
+	{
+    "name" : "Illickal Hostel",
+    "lat" : 10.04274678,
+    "lon" : 76.32661074,
+    "description" : "University Road Vidya Nagar, Thrikkakara, Kalamassery"
+    }
+
+  ]
+}

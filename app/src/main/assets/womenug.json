@@ -1,0 +1,22 @@
+{
+  "womenug" : [
+    {
+    "name" : "Post Metric Women's Hostel",
+    "lat" : 10.0455163,
+    "lon" : 76.3237533,
+    "description" : "Post Metric Women's Hostel"
+    },
+    {
+    "name" : "Alakananda Hostel For Girls",
+    "lat" : 10.046121,
+    "lon" : 76.324677,
+    "description" : "University Hostel for Girls"
+    },
+    {
+    "name" : "Ananya Ladies Hostel",
+    "lat" : 10.0441551,
+    "lon" : 76.3231996,
+    "description" : "University Hostel for Girls"
+    }
+  ]
+}

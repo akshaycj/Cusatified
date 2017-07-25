@@ -1,0 +1,16 @@
+{
+  "thattukada" : [
+    {
+    "name" : "Thattukada(Main Gate)",
+    "lat" : 10.047949,
+    "lon" : 76.318776,
+    "description" : ""
+    },
+    {
+    "name" : "Thattukada(Edappally)",
+    "lat" : 10.022769 ,
+    "lon" : 76.309869,
+    "description" : "Opp. iCare,Toll Junction, Edappally."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "gym" : [
+    {
+    "name" : "Power House Gym",
+    "icn" : "GM",
+    "lat" : 10.04582366,
+    "lon" : 76.32314868,
+    "description" : "",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    },
+    {
+    "name" : "Figure Gym",
+    "icn" : "GM",
+    "lat" : 10.04642054,
+    "lon" : 76.32252239,
+    "description" : "",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "cricket" : [
+   
+    {
+    "name" : "Cricket Ground",
+    "icn" : "CC",
+    "lat" : 10.03980324,
+    "lon" : 76.32717334,
+    "description" : "Located in the University Ground",
+    "otime" : "06:00 AM",
+    "ctime" : "06:30 PM"
+    }
+  ]
+}

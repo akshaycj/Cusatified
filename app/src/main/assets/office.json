@@ -1,0 +1,13 @@
+{
+  "office" : [
+    {
+    "name" : "Hostel Office",
+    "lat" : 10.042557,
+    "lon" : 76.328765,
+    "description" : "1st Floor, Amenity Centre \nPhone: 0484-2575944, 0484-2862155 \nWebsite:http://hostels.cusat.ac.in/",
+	"otime" : "9:00 AM",
+	"ctime" : "5:00 PM"
+    }
+
+  ]
+}
